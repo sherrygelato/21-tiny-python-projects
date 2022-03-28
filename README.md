@@ -2,7 +2,7 @@
 
 > 2022.03.27(sun) ~ 
 
-- [21개의 작고 자매난 파이썬 프로젝트](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791191600346&orderClick=LEa&Kc=)의 프로젝트 입니다.
+- [21개의 작고 재미난 파이썬 프로젝트](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791191600346&orderClick=LEa&Kc=)의 프로젝트 입니다.
 
 | 날짜| 챕터 | 확인 |
 |----|----------|-----|
